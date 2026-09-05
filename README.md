@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0912-sort-an-array](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [3903-smallest-stable-index-i](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
