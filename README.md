@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
