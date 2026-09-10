@@ -74,15 +74,18 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
 | ------- |
