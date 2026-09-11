@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0912-sort-an-array](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1219-path-with-maximum-gold](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1219-path-with-maximum-gold) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0912-sort-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,13 +101,16 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
