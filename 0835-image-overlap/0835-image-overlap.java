@@ -13,14 +13,15 @@ class Solution {
     }
     public int largestOverlap(int[][] img1, int[][] img2) {
         int n = img1.length;
-        int offset = (-1) * n - 1;
-        int count = 0;
+        int offset = (-1) * n - 1; //(-n + 1 --> n - 1)
+        int ans = 0;
 
+        //ye nested loop bata rha hai ki kitne tarah se overlap kar sakte hai like agar n = 2 hai toh {-1, 0, 1} ho tarah se row ko overlap kar sakte hai aur each overlapping me column bhi overlap kar sakte hai jo ki same rahega {-1, 0, 1} means -1 row offset ke liye col offset {-1, 0, 1} like wise for each.
         for(int i = offset; i < n; i++) {
             for(int j = offset; j < n; j++) {
-                count = Math.max(count, helper(img1, img2, i, j));
+                ans = Math.max(ans, helper(img1, img2, i, j));
             }
         }
-        return count;
+        return ans;
     }
 }
