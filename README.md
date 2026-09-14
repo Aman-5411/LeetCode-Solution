@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
