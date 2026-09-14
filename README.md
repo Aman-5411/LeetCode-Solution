@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Doubly-Linked List
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
