@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 ## Greedy
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
