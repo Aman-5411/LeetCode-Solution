@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0078-subsets) |
 | [0835-image-overlap](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1219-path-with-maximum-gold](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1219-path-with-maximum-gold) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0078-subsets) |
 | [1219-path-with-maximum-gold](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1219-path-with-maximum-gold) |
 ## Matrix
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
