@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [1219-path-with-maximum-gold](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1219-path-with-maximum-gold) |
 ## Matrix
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
