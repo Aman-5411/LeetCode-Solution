@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0078-subsets) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
