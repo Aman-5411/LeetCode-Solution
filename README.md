@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0835-image-overlap](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1219-path-with-maximum-gold](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1219-path-with-maximum-gold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 ## Greedy
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 ## Geometry
 |  |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
