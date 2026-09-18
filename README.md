@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0912-sort-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
