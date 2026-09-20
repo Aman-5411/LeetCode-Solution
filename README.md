@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
