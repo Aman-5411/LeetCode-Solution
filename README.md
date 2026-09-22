@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0078-subsets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0912-sort-an-array](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0912-sort-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1219-path-with-maximum-gold) |
