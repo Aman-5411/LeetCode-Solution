@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0055-jump-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
