@@ -1,30 +1,39 @@
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        HashMap<String, String> map = new HashMap<>();
+        HashMap<String, String> mp = new HashMap<>();
         StringBuilder sb = new StringBuilder();
+
         for(List<String> l : knowledge) {
-            String newStr = '(' + l.get(0) + ')';
-            map.put(newStr, l.get(1));
+            String newStr = l.get(0);
+            mp.put(newStr, l.get(1));
         }
 
-        System.out.println(map);
-        String[] parts = s.split("(?<=\\))|(?=\\()");
+        System.out.println(mp);
+        for(int i = 0; i < s.length(); i++) {
 
-        for(int i = 0; i < parts.length; i++) {
-            String str = parts[i];
+            if(s.charAt(i) == '(') {
+                int idx = i;
+                while(s.charAt(i) != ')') {
+                    i++;
+                }
 
-            if(str.charAt(0) != '('){
-                sb.append(str);
-            }
+                String key = s.substring(idx + 1, i);
 
-            else if(map.containsKey(str)){
-                sb.append(map.get(str));
+                if(mp.containsKey(key)){
+                    sb.append(mp.get(key));
+                }
+
+                else{
+                    sb.append("?");
+                }
             }
 
             else{
-                sb.append("?");
+                sb.append(s.charAt(i));
             }
+
         }
+
         return sb.toString();
     }
 }
