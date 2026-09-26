@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1219-path-with-maximum-gold](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1219-path-with-maximum-gold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aman-5411/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
