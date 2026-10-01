@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman-5411/LeetCode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
