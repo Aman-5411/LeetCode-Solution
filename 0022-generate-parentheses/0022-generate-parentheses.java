@@ -18,6 +18,7 @@ class Solution {
         }
         return st.isEmpty();
     }
+    
     private void helper(StringBuilder sb, int n, List<String> ans) {
         
         if(sb.length() == 2 * n){
@@ -36,6 +37,7 @@ class Solution {
         sb.deleteCharAt(sb.length() - 1); //Backtrack
 
     }
+    
     public List<String> generateParenthesis(int n) {
         ans = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
