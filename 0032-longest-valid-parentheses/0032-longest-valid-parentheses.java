@@ -43,13 +43,7 @@ class Solution {
                 left = 0;
                 right = 0;
             }
-
-
         }
-
         return max;
-        
-
-        
     }
 }
